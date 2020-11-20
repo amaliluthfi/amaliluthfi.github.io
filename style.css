@@ -1,0 +1,103 @@
+.title{
+      font-family: Montserrat Subrayada;
+      font-size: 25px;
+      text-align: center;
+      padding: 30px;
+      color: white;
+      background-color: #f05454;
+      margin-bottom: 30px;
+
+}
+#tagline{
+      font-family: Roboto;
+}
+
+.content{
+      background: url('https://image.freepik.com/free-photo/old-gray-cement-wall-background_34552-324.jpg');
+      
+}
+
+
+
+#header{
+      font-family: Montserrat;
+      font-size: 25px;
+      color: #1c2b2d;
+      text-align: center;
+      
+
+}
+
+#name{
+      font-family: Montserrat;
+      font-size: 20px;
+      color: #1c2b2d;
+      text-align: center;
+}
+
+
+.desc{
+      font-family: Lato;
+      padding: 20px;
+      border: 2px solid grey;
+      border-radius: 10px;
+      background-color: white;
+}
+
+
+.center {
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+    }
+
+.centerImg{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+}
+
+
+#btn{
+      font-family: lato;
+      padding: 7px;
+      color: white;
+      background-color: #1c2b2d;
+      margin-top: 3px;
+      border: none;
+      border-radius: 7px;
+
+}
+
+#btn:hover{
+      background-color: #bd3939;
+}
+
+.subtitle{
+      font-family: Roboto;
+      font-size: 25px;
+      color: #f05454;
+      margin-left: 20px;
+}
+
+.form{
+      font-family: Lato;
+      font-size: 15px;
+      color: black;
+     
+
+}
+
+
+.delete{
+      text-align: right;
+      background-color: rgb(182, 60, 60);
+      padding: 10px
+
+}
+
+.delete:hover{
+      background-color: rgb(133, 38, 38);
+}
+
