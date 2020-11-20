@@ -1,1 +1,6 @@
 # amaliluthfi.github.io
+_____________________________________________________________________________
+Deskripsi Tentang Web Who's Your Alter Ego
+_____________________________________________________________________________
+
+web ini adalah web tentang 
